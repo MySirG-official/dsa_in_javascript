@@ -126,7 +126,7 @@ class DoublyLinkedList{
 
 
 //Test Code:
-
+/*
 const list=new DoublyLinkedList();
 list.append(10);
 list.append(20);
@@ -136,3 +136,4 @@ list.prepend(50);
 list.insertAt(60,2);
 list.printListForward();
 list.printListBackward();
+*/
